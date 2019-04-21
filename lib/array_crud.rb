@@ -1,13 +1,13 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  sisters = ["Kendall", "Cameron", "Rachel", "Katherine"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  sisters.push["Laura"]
 end
 
 def add_element_to_start_of_array(array, element)
